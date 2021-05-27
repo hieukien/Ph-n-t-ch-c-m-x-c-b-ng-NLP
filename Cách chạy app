@@ -1,0 +1,1 @@
+Mình tạo 1 file templates bỏ index.html vào file đó .Do render_template yêu cầu qua file templates nó mới tìm thấy file html.Đối với backround mình có thể chọn một ảnh tùy ý
